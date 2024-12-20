@@ -205,11 +205,11 @@ span.wave {
   }
 
   .Feature-first-image{
-      padding : 0 2% 10%;
+      padding : 3 2% 10%;
   }
 
   .Feature-second-image{
-      padding : 5% 2% 0;
+      padding : 0.5 5% 2% 0;
   }
 
 
@@ -221,8 +221,8 @@ span.wave {
       height:100%;
   }
   .Feature-svg-image-3{
-    width: 84%;
-    height: 84%;
+    width: 83%;
+    height: 83%;
   }
 
 
